@@ -1,3 +1,3 @@
-/pipelines/*.*
-/pipelines-converted/*.*
+/pipelines/*.json
+/pipelines-converted/*.json
 pres.md
